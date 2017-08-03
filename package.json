@@ -1,10 +1,9 @@
 {
-  "name": "vue-alert",
+  "name": "@neuroo_fe/vue-alert",
   "description": "vue alert component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "pengng <yupeng.kuo@gmail.com>",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
